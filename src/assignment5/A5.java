@@ -103,7 +103,7 @@ public class A5 {
             declined = declined.toLowerCase();
             //if they say no
             if (declined.equals("no")) {
-            //break the code
+                //break the code
                 break;
             }
         }
